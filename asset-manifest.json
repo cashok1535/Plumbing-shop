@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04dc9531.css",
+    "main.js": "/static/js/main.87bbbbe7.js",
+    "static/media/promo.png": "/static/media/promo.005123ce3b6b11704dae.png",
+    "static/media/DucheSecond.png": "/static/media/DucheSecond.1e0c1cccf68c2226f29e.png",
+    "static/media/Duche.png": "/static/media/Duche.fadefb889daed45e7de2.png",
+    "static/media/tap.jpg": "/static/media/tap.3fc9828c9de89edab7b9.jpg",
+    "static/media/headerImg.png": "/static/media/headerImg.d5b9aed41d366a123fcc.png",
+    "static/media/OurGoodsImgSecond.jpg": "/static/media/OurGoodsImgSecond.d2aa4a30848f67e74c48.jpg",
+    "static/media/OurGoodsImgFourth.jpg": "/static/media/OurGoodsImgFourth.4965f51416c7dade1f3a.jpg",
+    "static/media/OurGoodsImgThird.jpg": "/static/media/OurGoodsImgThird.ee7ac1c1c4f563b0166c.jpg",
+    "static/media/OurGoodsImgFirst.jpg": "/static/media/OurGoodsImgFirst.bf972ef53863504fc93f.jpg",
+    "static/media/promotionFirst.png": "/static/media/promotionFirst.e95c9d94428bfd580e3e.png",
+    "static/media/mixer.svg": "/static/media/mixer.6f2e2b2b291533e2b7c11c7e2103ae7e.svg",
+    "static/media/promotionFourth.png": "/static/media/promotionFourth.a91036ed5f0fb906d9e4.png",
+    "static/media/shower.svg": "/static/media/shower.efe658f92391b238a05144501ca61011.svg",
+    "static/media/logo.svg": "/static/media/logo.1c3cc3e88072fa609246b6648ab407d9.svg",
+    "static/media/advantageSecond.svg": "/static/media/advantageSecond.986807f45a723f040c8454a1a799534c.svg",
+    "static/media/advantageFirst.svg": "/static/media/advantageFirst.f575979fb532fdf80601893056936c83.svg",
+    "static/media/fayas.svg": "/static/media/fayas.52c66aa46188effe46e70607cd2accd9.svg",
+    "static/media/footerSocial.svg": "/static/media/footerSocial.4ce0e96af17d7e1724a57b42f9bff90e.svg",
+    "static/media/furniture.svg": "/static/media/furniture.5eeb48956462f5e34f61da5ce5776c45.svg",
+    "static/media/mainAboutFirst.svg": "/static/media/mainAboutFirst.0cf14b481d963e82bac9ffd891ea8c78.svg",
+    "static/media/advantageThird.svg": "/static/media/advantageThird.69144b63cc64043cb9bd7ba35e270135.svg",
+    "static/media/footerMail.svg": "/static/media/footerMail.b456489ec6f128d85f36b4ab8ced8418.svg",
+    "static/media/mainAboutSecond.svg": "/static/media/mainAboutSecond.5c3645305419a2a74e40b6da45e140e8.svg",
+    "static/media/footerPhone.svg": "/static/media/footerPhone.cd0c1e2cf64c6c99f3853d31d8ff3737.svg",
+    "static/media/search.svg": "/static/media/search.85d4de5a13aea43234edc733fe800a22.svg",
+    "index.html": "/index.html",
+    "static/media/footerBottom.svg": "/static/media/footerBottom.8c7d5dd5d69fac02082de3c18a7f457c.svg",
+    "static/media/list.svg": "/static/media/list.7c4652a8f095115bc22b2299dcc03abb.svg",
+    "main.04dc9531.css.map": "/static/css/main.04dc9531.css.map",
+    "main.87bbbbe7.js.map": "/static/js/main.87bbbbe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dc9531.css",
+    "static/js/main.87bbbbe7.js"
+  ]
+}
